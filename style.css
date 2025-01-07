@@ -1,0 +1,69 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+
+
+.game{
+    background-color: black;
+    width: 400px;
+    height: auto;
+    color: white;
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 25px;
+    user-select: none;
+}
+
+.form{
+    border: 3px solid;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+#results{
+    margin-top: 20px;
+    text-align: left;
+    font-size: 17px;
+    border: 3px solid;
+    border-radius: 20px;
+    padding: 20px;
+    display: none;
+}
+
+input{
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 13px;
+    cursor: pointer;
+    margin-right: 6px;
+    user-select: none;
+
+}
+
+.css-button-fully-rounded--grey {
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid #495057;
+    background: #495057;
+    cursor: pointer;
+    user-select: none;
+}
+  .css-button-fully-rounded--grey:hover {
+    background: #fff;
+    color: #495057
+  }
+
+
+
+  
